@@ -1,0 +1,6 @@
+[submodule "O-Educate-server"]
+	path = O-Educate-server
+	url = https://github.com/miqdadyyy/O-Educate-server
+[submodule "O-Educate-client"]
+	path = O-Educate-client
+	url = https://github.com/miqdadyyy/O-Educate-client
